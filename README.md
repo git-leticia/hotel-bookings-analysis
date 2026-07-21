@@ -5,6 +5,7 @@
 Este projeto foi desenvolvido como Trabalho de Conclusão do MBA em Business Intelligence.
 
 O objetivo foi desenvolver um dashboard interativo em Power BI para transformar dados de reservas hoteleiras em informações estratégicas, permitindo a análise de  padrões de cancelamento, sazonalidade e comportamento dos clientes.
+Você também pode assistir o vídeo da minha apresentação no Pitch Letícia Silva - MBA Business Intelligence.mp4
 
 ## Objetivos
 
