@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como Trabalho de Conclusão do MBA em Business Int
 
 O objetivo foi desenvolver um dashboard interativo em Power BI para transformar dados de reservas hoteleiras em informações estratégicas, permitindo a análise de  padrões de cancelamento, sazonalidade e comportamento dos clientes.
 
-Você também pode assistir o vídeo da minha apresentação através do link do Youtube: https://youtu.be/y6ATs9q3oLI
+Você pode assistir o vídeo da minha apresentação através do link do Youtube: https://youtu.be/y6ATs9q3oLI
 
 ## Objetivos
 
